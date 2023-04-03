@@ -1,4 +1,4 @@
-# File-Manager
+# File Manager
 An android app to manage files
 The goal of this project is to develop an Android file manager app using Android Studio
 that allows users to manage their files and folders on their devices. 
