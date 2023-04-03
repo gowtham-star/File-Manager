@@ -18,4 +18,3 @@ contextual menu.
 <img src="https://user-images.githubusercontent.com/29543544/229419110-db819cd7-8613-424d-8821-c11543bd0187.png" width="400" height="600">
 <img src="https://user-images.githubusercontent.com/29543544/229419113-26744795-9fa2-49e7-b193-8014f55c4c61.png" width="400" height="600">
 <img src="https://user-images.githubusercontent.com/29543544/229419115-21bdbcc2-3308-4349-b9fe-1bd1ae3915ad.png" width="400" height="600">
-<img src="https://user-images.githubusercontent.com/29543544/229420291-1d3b87c7-a181-43b6-b4b9-307ae844f959.png" width="400" height="600">
